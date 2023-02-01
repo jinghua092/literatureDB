@@ -1,0 +1,28 @@
+{
+  "servers": [
+    {
+      "id": "79311690-a2a0-11ec-9470-bfd6e0bb6e45",
+      "client": "mysql",
+      "cloudConnection": false,
+      "database": "mydatabase",
+      "host": "localhost",
+      "name": "mydatabase",
+      "oauth": false,
+      "organizationId": 205397,
+      "password": null,
+      "permissions": [],
+      "port": 3306,
+      "role": null,
+      "shareConnection": false,
+      "shareCredentials": false,
+      "sharingOption": "private",
+      "socketPath": null,
+      "ssh": false,
+      "ssl": false,
+      "user": null,
+      "userId": 339091,
+      "complete": true,
+      "connectionSha": "393d9ba62e0263a2"
+    }
+  ]
+}
